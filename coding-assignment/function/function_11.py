@@ -1,6 +1,4 @@
 #  multiplication of two matrix 
-
-
 def mat_multiplier(a, b):
     c = [ [0, 0, 0],
       [0, 0, 0],
